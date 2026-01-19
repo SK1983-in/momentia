@@ -1,4 +1,4 @@
-package com.icapsoft.momentia;
+package com.icapsoft.prgroups;
 
 import io.flutter.embedding.android.FlutterActivity;
 
