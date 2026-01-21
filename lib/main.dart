@@ -16,7 +16,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   late final WebViewController _controller;
   bool _isLoading = true;
-  String _lastUrl = "https://bookmyyaatra.com/skola/snologin.html";
+  String _lastUrl = "https://pr-groups.com/mgmt/login.php";
 
   @override
   void initState() {
